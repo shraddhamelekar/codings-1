@@ -1,0 +1,5 @@
+A=5
+B=10
+C=A+B
+Print("addition="C)
+addition=15
